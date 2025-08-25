@@ -405,7 +405,7 @@ a, a:hover { text-decoration: none; }
 /*CONTACT*/
 .contact {
   
-  dispfont-weight: 600; text-transform: capitalize; padding-bottom: 15pxlay: flex;
+   text-transform: capitalize; padding-bottom: 15pxlay: flex;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
@@ -416,6 +416,7 @@ a, a:hover { text-decoration: none; }
 .contact-container {
   width: 100%;
   max-width: 400px;
+  margin:0 auto;
   background: #fff;
   border-radius: 16px;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
